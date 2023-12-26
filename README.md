@@ -1,2 +1,1 @@
-# drum machine
- https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine
+https://doguozcan.github.io/drum-machine
